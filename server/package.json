@@ -1,0 +1,26 @@
+{
+  "name": "sharingmongodb",
+  "version": "1.0.0",
+  "description": "Sharing Express JS + MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harynp/sharingMongoDB.git"
+  },
+  "author": "Hary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harynp/sharingMongoDB/issues"
+  },
+  "homepage": "https://github.com/harynp/sharingMongoDB#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  }
+}
